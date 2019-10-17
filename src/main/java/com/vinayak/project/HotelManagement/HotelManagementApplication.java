@@ -8,6 +8,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 @EnableJpaRepositories
 public class HotelManagementApplication {
 
+	// Driver code
 	public static void main(String[] args) {
 
 		SpringApplication.run(HotelManagementApplication.class, args);
